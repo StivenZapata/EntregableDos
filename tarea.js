@@ -4,7 +4,7 @@ const suma = (a,b) =>{
      * La función debe devolver la suma de los parámetros de entrada
      * Debes generar el código para que la función haga lo solicitado.
      */
-    
+
     
 }
 
